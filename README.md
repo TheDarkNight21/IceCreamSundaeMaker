@@ -1,6 +1,6 @@
-# asst3
+# Ice Cream Sundae Maker
 
-A new Flutter project.
+The sundae maker is designed to have a modern and minimalistic look, functionality, good user experience, and fun engagement.
 
 ## Getting Started
 
